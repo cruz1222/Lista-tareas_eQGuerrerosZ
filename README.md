@@ -13,6 +13,10 @@ Esta aplicación permite crear, organizar y dar seguimiento a tareas personales 
 ## Metodología
 **Ágil (Kanban)** — Elegí este enfoque porque el proyecto es pequeño, puede cambiar durante el desarrollo y conviene dividirlo en tareas cortas. El tablero Kanban permite ver de forma rápida qué está pendiente, qué está en proceso y qué ya se terminó.
 
+##Justificación
+
+Elegimos el proyecto de Lista de Tareas porque nos pareció una idea sencilla, útil y fácil de llevar a cabo para esta práctica. La aplicación sirve para organizar pendientes de la escuela o de la vida diaria, y eso la hace bastante práctica porque muchas veces se nos olvidan cosas importantes. También nos pareció buena opción porque no es un proyecto demasiado grande, entonces sí se puede trabajar en equipo, dividir tareas y avanzar poco a poco sin complicarnos tanto
+  
 ## Integrantes del equipo
 - Cruz Angel Velazquez Guel — usuario de GitHub
 - Nombre completo — usuario de GitHub

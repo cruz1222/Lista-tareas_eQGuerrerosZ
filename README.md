@@ -20,4 +20,4 @@ Elegimos el proyecto de Lista de Tareas porque nos pareció una idea sencilla, �
 ## Integrantes del equipo
 - Cruz Angel Velazquez Guel — @cruz1222
 - David Israel Alonzo Contreras — @DavidAlonzo-a19
-- Nombre completo — usuario de GitHub
+- Roberto Alexis Cisneros Vazquez — @ROBEE23
